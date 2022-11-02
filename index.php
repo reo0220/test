@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <link rel = "stylesheet" type = "text/css" href = "style.css">
     <title>掲示板</title>
-    <!-- http://localhost/diworks_keijiban/index.php -->
 </head>
 <body>
    <?php
